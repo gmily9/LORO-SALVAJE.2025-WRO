@@ -2,7 +2,7 @@
 Teoría del proyecto realizado donde contamos y mostramos nuestro paso a paso con el robot.
 Buscamos brindar informacion detallada de nuestro proceso de construccion y programacion de nuestro auto autonomo preparado para la competencia WRO (World Robot Olympiad) Future Engineers. 
  
-en la carpeta "photos" estan todas las fotos tomadas en nuestro proceso de contrsuccion y programación.
+en la carpeta "photos" estan todas las fotos tomadas en nuestro proceso de construccion y programación.
 
 en la carpeta "videos" estan todos los videos tomados en las pruebas de funcionamiento del auto.
 
