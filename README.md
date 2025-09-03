@@ -12,4 +12,4 @@ en la carpeta "materials" estan la lista de materiales usados con su descripció
 
 en la carpeta "schemes" estan los esquemas electricos y de construccion del auto.
 
-en la carpeta 
+en la carpeta "informes" estan los documentos donde escribimos todo nuestro proceso con la construcción y programación del robot.
